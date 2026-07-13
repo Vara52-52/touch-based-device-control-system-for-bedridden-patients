@@ -18,6 +18,12 @@
   <img src="block_diagram.png" alt="Block Diagram" width="500">
 </p>
 
+
+## Project Images And Videos
+
+https://drive.google.com/drive/folders/1PEEHIhly84znwjvupmyLy4uzsm6-apf1?usp=drive_link
+
+
 ## Features
 - Touch-based device control
 - Password-protected access
